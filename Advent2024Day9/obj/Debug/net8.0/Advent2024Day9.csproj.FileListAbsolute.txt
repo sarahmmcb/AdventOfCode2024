@@ -1,0 +1,14 @@
+C:\Dev\Advent2024\Advent2024Day9\bin\Debug\net8.0\Advent2024Day9.exe
+C:\Dev\Advent2024\Advent2024Day9\bin\Debug\net8.0\Advent2024Day9.deps.json
+C:\Dev\Advent2024\Advent2024Day9\bin\Debug\net8.0\Advent2024Day9.runtimeconfig.json
+C:\Dev\Advent2024\Advent2024Day9\bin\Debug\net8.0\Advent2024Day9.dll
+C:\Dev\Advent2024\Advent2024Day9\bin\Debug\net8.0\Advent2024Day9.pdb
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.AssemblyInfoInputs.cache
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.AssemblyInfo.cs
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.csproj.CoreCompileInputs.cache
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.dll
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\refint\Advent2024Day9.dll
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.pdb
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\Advent2024Day9.genruntimeconfig.cache
+C:\Dev\Advent2024\Advent2024Day9\obj\Debug\net8.0\ref\Advent2024Day9.dll
